@@ -1,2 +1,0 @@
-# git-practice
-First task
